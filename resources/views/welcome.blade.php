@@ -20,6 +20,7 @@
         @endif
     </head>
     <body class="font-sans antialiased ">
+           <?php echo "Здравствуйте! ".$name; ?>
         <p>
             <a href="/gendalf-test/public/products"> Товары </a>
             <a href="/gendalf-test/public/users"> Пользователи </a>
